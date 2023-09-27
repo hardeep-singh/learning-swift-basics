@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='SimpleCodable'/>
-        <page name='Nested types'/>
+        <page name='1_SimpleCodable'/>
+        <page name='2_Nested types'/>
+        <page name='3_Snake case vs camel case'/>
+        <page name='4_Custom coding keys'/>
+        <page name='5_Dates'/>
+        <page name='6_Subclasses'/>
+        <page name='7_Polymorphic types'/>
+        <page name='8_Keyed containers'/>
+        <page name='9_Nested keyed containers'/>
+        <page name='10_Unkeyed containers'/>
+        <page name='11_Nested unkeyed containers'/>
     </pages>
 </playground>
